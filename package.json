@@ -1,0 +1,3 @@
+{  "name": "recursive-drawing-modern",  "version": "1.0.0",  "scripts": {    "build": "vite build",    "dev": "vite",    "serve": "vite preview"  },  "devDependencies": {    "vite": "latest",    "typescript": "latest",    "tailwindcss": "latest",	    "postcss": "latest"
+  }
+}
